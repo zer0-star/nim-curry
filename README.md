@@ -1,7 +1,7 @@
 # nim-curry: easy currying tool for nim
-To curry functions, using this library is easy.
+You can curry functions by simply writing `{.curry.}`.
 
-# Usage
+## Example
 ```nim
 import nim_curry
 
