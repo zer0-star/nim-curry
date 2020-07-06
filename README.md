@@ -1,5 +1,5 @@
 # nim-curry: easy currying tool for nim
-You can curry functions by simply writing `{.curry.}`.
+You can curry functions by simply putting `{.curry.}`.
 
 ## Example
 ```nim
